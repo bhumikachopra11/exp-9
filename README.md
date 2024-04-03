@@ -2,4 +2,3 @@
 hello
 hi
 yo
-yes
